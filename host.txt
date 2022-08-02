@@ -5,5 +5,4 @@ https://raw.githubusercontent.com/mmpx12/proxy-list/master/socks5.txt
 https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS5_RAW.txt
 https://raw.githubusercontent.com/manuGMG/proxy-365/main/SOCKS5.txt
 https://www.proxy-list.download/api/v1/get?type=socks5
-https://www.proxyscan.io/download?type=socks5
 https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt
